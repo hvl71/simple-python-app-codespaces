@@ -1,6 +1,10 @@
 # simple-python-app-codespaces
 
-This repo contain demo code and configuration to illustrate how github codespaces can be used to launch a default dev environment in the cloud. How to build a simple python app, containerize it and test it manually
+This repo contain demo code and configuration to illustrate how github codespaces can be used to launch a default dev environment in the cloud. How to build a simple python app, containerize it and test it manually.
+
+Lot's of room for improvement. That is intentional to keep things simple. In later demos I plan on gradually increasing the fanciness factor, while still keeping things simple. I'm a strong believer in simplicity whenever possible!
+
+The below example uses a default codespace devcontainer image somehow. So no devcontainer configured explicitly. I assume this means it cannot be used as a devcontainer locally. 
 
 ### 1. Open source via Codespaces
 
